@@ -1,4 +1,4 @@
-Hi ! My name is Marc Jacob, 23 (born 17/11/1998), from Lyon, France.
+Hi ! My name is Marc Jacob, a developper with passion on all things related to video-game development.
 
 I bid you welcome to my Github profile ! On here I post most of my projects that I believe worth showing by themselves. As a Programmer by trade, my main focus is nearly always
 the accomplishment of some technical feat I've never done before - be it some sort of AI, broad optimization, using GPU computing... Every project on here will have one such an element of uniqueness on a technical standpoint from what I've done before.
