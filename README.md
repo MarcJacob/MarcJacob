@@ -1,8 +1,8 @@
 Hi ! My name is Marc Jacob, a developper with passion on all things related to video-game development.
 
-My main expertise is in C / C++ Game Programming, with a specialization in using the Unreal Engine. I also have experience using Unity and C#, and spend a lot of time working on engine-less projects as well.
+My main expertise is in C / C++ Real-time Programming, with a specialization in using the Unreal Engine. I also have experience using Unity and C#, and spend a lot of time working on engine-less projects as well.
 
-Currently I am attempting to learn how to program on Embedded Platforms, possibly in the hopes of a career change at some point into Robotics or the Defense or Aerospatial industries.
+Current personal project is a collaborative graph-based intellectual construction software.
 
 <!---
 MarcJacob/MarcJacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
